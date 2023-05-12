@@ -1,0 +1,32 @@
+body{
+    background-color:  rgb(2 173 235);;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+   
+}
+
+#logo {
+ 
+text-align: center;
+}
+
+
+h2{
+    margin-left: 30px;
+    color: aliceblue;
+}
+
+.container {
+   margin: 0 auto ;
+   max-width: 900px;
+
+ 
+}
+table{
+    width: 100%;
+
+    text-indent: initial;
+    border-spacing: 4px;
+    padding: 10px 15px;
+}
